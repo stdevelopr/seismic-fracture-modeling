@@ -20,3 +20,7 @@ These files assume that you have ANRAY software installed on your computer.<br>
 To run the files just copy them to the anray folder and execute with python. **The _gui files must be in the same folder and are resposible to generate the graphical user interface.
 
 ### Usage
+![alt tag](/images/P_formula_split_min.png)
+![alt tag](/images/P_anray.png)
+![alt tag](/images/P_anray_sismo_reflec.png)
+![alt tag](/images/P_sismo_azm_vertical.png)
