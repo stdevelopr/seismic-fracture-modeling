@@ -17,6 +17,6 @@ The files have in their names the types of conversions:<p>
 
 These files assume that you have ANRAY software installed on your computer.<br>
 <a>You can find instructions here: http://w3d.cz/software/sw3dcd21/anray/anray.htm <p>
-To run the files just copy them to the anray folder and execute with python.
+To run the files just copy them to the anray folder and execute with python. **The _gui files must be in the same folder and are resposible to generate the graphical user interface.
 
 ### Usage
