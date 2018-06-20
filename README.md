@@ -24,7 +24,7 @@ Here you enter the parameters(layer 1 and layer 2, fracture and bulk properties)
 ngeo, d_min, d_step refers to the acquisition parameters (number of geophones, minimun distance, and step).
 ![alt tag](/images/P_formula_split_min.png)
 <p>
-In this tab, click on generate model, to use the chosen parameters as data to Anray. After the calculation the result will be plotted (The total component, wich is composed of the vertical and the radial).
+In this tab, click on generate model, to use the chosen parameters as data to Anray. After the calculation the result will be plotted (The total component, wich is composed of the vertical and the radial). This program use B-spline approximation.
 
 ![alt tag](/images/P_anray.png)
 
