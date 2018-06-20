@@ -18,6 +18,7 @@ The files have in their names the types of conversions:<p>
 These files assume that you have ANRAY software installed on your computer.<br>
 <a>You can find instructions here: http://w3d.cz/software/sw3dcd21/anray/anray.htm <p>
 To run the files just copy them to the anray folder and execute with python. **The _gui files must be in the same folder and are resposible to generate the graphical user interface.
+Add the files of the anray folder into your instalation folder, replacing the original anray.for.
 
 ### Usage
 Here you enter the parameters(layer 1 and layer 2, fracture and bulk properties) and get an aproximation of the reflection coeficient for differents azimuths. In the split box, you can choose the azimuths in which a minimum of 10% split occurs. It will then be plotted on the graph where the difference occurs.
