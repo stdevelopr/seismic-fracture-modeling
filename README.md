@@ -20,7 +20,15 @@ These files assume that you have ANRAY software installed on your computer.<br>
 To run the files just copy them to the anray folder and execute with python. **The _gui files must be in the same folder and are resposible to generate the graphical user interface.
 
 ### Usage
+Here you enter the parameters(layer 1 and layer 2, fracture and bulk properties) and get an aproximation of the reflection coeficient for differents azimuths. In the split box, you can choose the azimuths in which a minimum of 10% split occurs. It will then be plotted on the graph where the difference occurs.
+ngeo, d_min, d_step refers to the acquisition parameters (number of geophones, minimun distance, and step).
 ![alt tag](/images/P_formula_split_min.png)
+<p>
+In this tab, click on generate model, to use the chosen parameters as data to Anray. After the calculation the result will be plotted (The total component, wich is composed of the vertical and the radial).
+
 ![alt tag](/images/P_anray.png)
+
+In this tab you see the expected seismograms, and the option to plot the reflection from the soil, to compare the amplitudes.
 ![alt tag](/images/P_anray_sismo_reflec.png)
+The last tab compare the amplitudes for differents azimuths.
 ![alt tag](/images/P_sismo_azm_vertical.png)
